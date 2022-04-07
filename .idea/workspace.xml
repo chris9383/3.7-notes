@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4cf749-3b6b-4312-8fbb-95a0e4e63303" name="Default Changelist" comment="3.7 notes.html">
-      <change afterPath="$PROJECT_DIR$/.idea/Remove Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc4cf749-3b6b-4312-8fbb-95a0e4e63303" name="Default Changelist" comment="3.7 notes.html" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Remove Classes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="90" column="41" lean-forward="true" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
+            <state relative-caret-position="212">
+              <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -136,7 +130,7 @@
       <workItem from="1649105986445" duration="1462000" />
       <workItem from="1649107470715" duration="5058000" />
       <workItem from="1649195246071" duration="4041000" />
-      <workItem from="1649365040494" duration="2055000" />
+      <workItem from="1649365040494" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="3.7 notes.html">
       <created>1649279271398</created>
@@ -159,11 +153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1649367092279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.7 notes.html">
+      <created>1649367132146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649367132146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12616000" />
+    <option name="totallyTimeSpent" value="12767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -191,16 +192,16 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3.7 notes.html" />
     <MESSAGE value="remove.classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove.classes" />
+    <MESSAGE value="3.7 notes.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.7 notes.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stylessheet.css" />
     <entry file="file://$PROJECT_DIR$/Remove Classes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="90" column="41" lean-forward="true" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
+        <state relative-caret-position="212">
+          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
         </state>
       </provider>
     </entry>
